@@ -1,4 +1,6 @@
-Renad is here, 
+Renad is here :) 
+
+
 this script validates a Kubernetes configuration file (kubeconfig) to ensure it is correctly formatted and can connect to the specified cluster. It provides detailed error messages to help identify and fix any issues with the kubeconfig file.
 
 -->  prerequisites
